@@ -73,7 +73,7 @@ mnist_digit_recognition/
 
  
  
- Dependencies
+ Dependencies:
 streamlit
 tensorflow
 Pillow
@@ -83,7 +83,7 @@ streamlit-drawable-canvas
 
 
 
- Author
+ Author:
 Yeruva Koushik Reddy
  B.Tech in CSE (AI & ML), R.V.R & J.C College of Engineering, Guntur
  [koushikreddyyeruva21@gmail.com]
