@@ -60,18 +60,7 @@ pip install -r requirements.txt
 ``bash
 streamlit run app.py
 
- 
- Project Structure
-mnist_digit_recognition/
-│
-├── app.py # Streamlit web application
-├── mnist_train.py # CNN training script
-├── mnist_cnn.h5 # Trained CNN model file
-├── requirements.txt # Required dependencies
-├── README.md # Project documentation
-└── .gitignore # Ignore unnecessary files
 
- 
  
  Dependencies:
 streamlit
