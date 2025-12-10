@@ -59,6 +59,8 @@ pip install -r requirements.txt
 ### 4️ Run the Streamlit app
 ``bash
 streamlit run app.py
+
+ 
  Project Structure
 mnist_digit_recognition/
 │
@@ -68,6 +70,9 @@ mnist_digit_recognition/
 ├── requirements.txt # Required dependencies
 ├── README.md # Project documentation
 └── .gitignore # Ignore unnecessary files
+
+ 
+ 
  Dependencies
 streamlit
 tensorflow
@@ -75,6 +80,9 @@ Pillow
 numpy
 pandas
 streamlit-drawable-canvas
+
+
+
  Author
 Yeruva Koushik Reddy
  B.Tech in CSE (AI & ML), R.V.R & J.C College of Engineering, Guntur
